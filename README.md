@@ -1,3 +1,7 @@
+
+<img width="1902" height="915" alt="image" src="https://github.com/user-attachments/assets/86b28c8b-df91-417b-ae50-6299bc64fed0" />
+<img width="924" height="849" alt="image" src="https://github.com/user-attachments/assets/4ff0a22b-ea99-472b-9add-6524f105f899" />
+
 # Portfolio
 This is my portfolio. I am working to improve this.
 # iGLA Devices - Portfolio for Igla Devices
